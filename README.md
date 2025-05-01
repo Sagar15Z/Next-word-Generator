@@ -1,1 +1,1 @@
-# Next-word-Generator
+# Next-word-Generator using LSTM 
